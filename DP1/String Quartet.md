@@ -8,7 +8,7 @@ Redesign how exchange students in KAIST interact with domestic students
 All team members participated all interviews.
 We summarized the interesting points we thought during the interview. They are interesting not only because of the contents itself, but the interviewee emphasized them through nonverbal cues. For the task, we first thought of finding a person to eat together with (either Koreans or foreigners because they could feel uncomfortable when we limited to Koreans), but it might affect to their real schedule so we just asked them to imagine about it.
 
-![Image of interviewee 1](./images/itv1.jpeg)
+![Image of interviewee 1](./images/itv1.jpg)
 ![Image of interviewee 2](./images/itv2.jpeg)
 ![Image of interviewee 3](./images/itv3.jpeg)
 
